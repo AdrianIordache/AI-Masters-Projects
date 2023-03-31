@@ -7,3 +7,15 @@
 [submodule "Knowledge-Representation-and-Reasoning"]
 	path = Knowledge-Representation-and-Reasoning
 	url = https://github.com/AdrianIordache/Knowledge-Representation-and-Reasoning
+[submodule "Computer-Vision"]
+	path = Computer-Vision
+	url = https://github.com/AdrianIordache/Computer-Vision
+[submodule "Advanced-Theoretical-Machine-Learning"]
+	path = Advanced-Theoretical-Machine-Learning
+	url = https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning
+[submodule "Natural-Language-Processing-1"]
+	path = Natural-Language-Processing-1
+	url = https://github.com/AdrianIordache/Natural-Language-Processing-1
+[submodule "Statistics-for-Data-Science"]
+	path = Statistics-for-Data-Science
+	url = https://github.com/AdrianIordache/Statistics-for-Data-Science
