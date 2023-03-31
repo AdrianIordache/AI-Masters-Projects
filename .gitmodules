@@ -1,3 +1,9 @@
 [submodule "Probabilistic-Programming"]
 	path = Probabilistic-Programming
 	url = https://github.com/AdrianIordache/Probabilistic-Programming
+[submodule "Practical-Machine-Learning"]
+	path = Practical-Machine-Learning
+	url = https://github.com/AdrianIordache/Practical-Machine-Learning
+[submodule "Knowledge-Representation-and-Reasoning"]
+	path = Knowledge-Representation-and-Reasoning
+	url = https://github.com/AdrianIordache/Knowledge-Representation-and-Reasoning
