@@ -31,3 +31,12 @@
 [submodule "Deep-Learning"]
 	path = Deep-Learning
 	url = https://github.com/AdrianIordache/Detect-Targets-In-Radar-Signals
+[submodule "BioMedical-NLP"]
+	path = BioMedical-NLP
+	url = https://github.com/AdrianIordache/BioMedical-NLP
+[submodule "Problem-Solving-and-Search"]
+	path = Problem-Solving-and-Search
+	url = https://github.com/AdrianIordache/Problem-Solving-and-Search
+[submodule "Special-Topics-in-Artificial-Intelligence"]
+	path = Special-Topics-in-Artificial-Intelligence
+	url = https://github.com/AdrianIordache/Special-Topics-in-Artificial-Intelligence
