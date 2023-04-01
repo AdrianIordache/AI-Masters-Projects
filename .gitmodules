@@ -19,3 +19,15 @@
 [submodule "Statistics-for-Data-Science"]
 	path = Statistics-for-Data-Science
 	url = https://github.com/AdrianIordache/Statistics-for-Data-Science
+[submodule "Natural-Language-Processing-2"]
+	path = Natural-Language-Processing-2
+	url = https://github.com/AdrianIordache/Natural-Language-Processing-2
+[submodule "Neural-Machine-Translation"]
+	path = Neural-Machine-Translation
+	url = https://github.com/AdrianIordache/Neural-Machine-Translation
+[submodule "Information-Retrieval-and-Text-Mining"]
+	path = Information-Retrieval-and-Text-Mining
+	url = https://github.com/AdrianIordache/Information-Retrieval-and-Text-Mining
+[submodule "Deep-Learning"]
+	path = Deep-Learning
+	url = https://github.com/AdrianIordache/Detect-Targets-In-Radar-Signals
